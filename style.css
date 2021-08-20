@@ -390,7 +390,23 @@ section .button button:hover
     color: var(--white-color);
     transition: all 0.4s ease;
 }
+/* contact page */
+.contact
+{
+    /* background: rgb(206, 247, 125); */
+    background: rgb(243, 188, 231);
+}
+.contact .content
+{
+    padding: 30px;
+    margin: 0 auto;
+}
+.contact .text {
+    width: 80%;
+    text-align: center;
+    margin: auto;
 
+}
 
 
 
